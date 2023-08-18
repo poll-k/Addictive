@@ -15,7 +15,15 @@
     background-position: 0% 50%;
   }
 }
+.soclist {
+  display: flex;
+  justify-content: center;
+  
+}
 
+img {
+  margin: 0 5px;
+}
 
 .icon-square {
   width: 3rem;
